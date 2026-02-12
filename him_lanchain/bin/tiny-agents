@@ -1,0 +1,8 @@
+#!/bin/sh
+'''exec' "/Users/himanshuyadav/Desktop/IIT 4th Sem/Langchain/him_lanchain/bin/python" "$0" "$@"
+' '''
+import sys
+from huggingface_hub.inference._mcp.cli import app
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(app())

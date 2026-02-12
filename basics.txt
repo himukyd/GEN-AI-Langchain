@@ -1,0 +1,8 @@
+1. We have to create a python environment.
+>>> python -m venv him_lanchain
+
+2. To active that created environment
+>>> source him_lanchain/bin/activate
+
+3. install dependency from requirements.txt
+>>> pip install -r requirements.txt
