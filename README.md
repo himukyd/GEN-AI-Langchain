@@ -302,7 +302,7 @@ Feel free to:
 
 ## 👨‍💻 Himanshu Yadav
 
-- MSc Mathematics & Computing, IIT Bhilai
+- Master's in Mathematics & Computing, IIT Bhilai
 - Interested in:
   - Generative AI
   - NLP
