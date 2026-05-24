@@ -300,7 +300,7 @@ Feel free to:
 
 # 📬 Connect With Me
 
-## 👨‍💻 Himanshu Yadav
+## 👨‍💻 Himanshu
 
 - Master's in Mathematics & Computing, IIT Bhilai
 - Interested in:
